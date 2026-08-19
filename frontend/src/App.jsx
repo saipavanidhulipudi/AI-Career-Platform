@@ -5,10 +5,11 @@ const BACKEND_URL = "https://ai-career-platform-backend-c2nt.onrender.com";
 
 const careers = [
   "AI Engineer",
+  "Machine Learning Engineer",
   "Data Scientist",
   "Data Analyst",
   "Full Stack Developer",
-  "Software Engineer",
+  "Software Engineer"
 ];
 
 // =====================================================
