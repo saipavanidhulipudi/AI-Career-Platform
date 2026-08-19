@@ -48,7 +48,7 @@ function CareerRecommendation() {
       // =================================================
 
       const careerResponse = await fetch(
-        'http://127.0.0.1:8000/api/career-recommendation',
+  'https://ai-career-platform-backend-c2nt.onrender.com/api/career-recommendation',
         {
           method: 'POST',
           headers: {
